@@ -1,2 +1,1 @@
-# Kaggle-Competition-Spam-Detector
 
